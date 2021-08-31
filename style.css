@@ -1,0 +1,43 @@
+body{
+    background-color: blue;
+}
+.head{
+font-size: 20px;
+text-align: center;
+font-family: Lucida Handwriting;
+
+}
+.hi{
+    color: lightskyblue;
+}
+.ih{
+    color: white;
+}
+.for {
+    
+    margin: auto;
+    width: 444px;
+    color: white;
+}
+
+.for h3{
+    padding: 10px 10px 3px ;
+}
+.ji{
+    padding-left: 300px;
+     
+}
+.HT{
+    padding-left: 15px;
+}
+.ij{
+    padding-left: 240px;
+}
+fieldset{
+    background-color: orange;
+    border-radius: 25px;
+    
+  border: 5px solid black;
+  padding: 10px;
+  box-shadow: 5px 10px 12px black;
+}
